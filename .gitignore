@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Dados/datasets pesados de imagem
+yolo_dataset/images/
+yolo_dataset/labels/
+yolo_dataset/val/
+yolo_obb_dataset/
+imgs_com_box/
+box_motos/
+TESTE/
+
+# Arquivos grandes
+*.zip
+*.pth
