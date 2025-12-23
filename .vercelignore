@@ -1,0 +1,10 @@
+# Ignora diretórios e arquivos grandes que não são necessários no deploy da API.
+box_motos/
+imgs_com_box/
+TESTE/
+yolo_obb_dataset/
+yolo_dataset/images/
+yolo_dataset/labels/
+*.zip
+*.pth
+__pycache__/
